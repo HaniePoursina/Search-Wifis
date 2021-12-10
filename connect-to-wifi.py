@@ -1,6 +1,5 @@
 import os
 
-
 class Finder:
     def __init__(self, *args, **kwargs):
         self.server_name = kwargs['server_name']

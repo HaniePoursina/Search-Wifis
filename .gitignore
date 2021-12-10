@@ -5123,7 +5123,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-*.py,cover
+*cover
 .hypothesis/
 .pytest_cache/
 cover/
@@ -6518,3 +6518,6 @@ tags
 
 !/README.md
 !/connect-to-wifi.py
+!/api-to-show-wifis.py
+!/wifis.png
+!/active-ap.png
