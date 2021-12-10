@@ -6516,3 +6516,5 @@ tags
 # Persistent undo
 [._]*.un~
 
+!/README.md
+!/connect-to-wifi.py
